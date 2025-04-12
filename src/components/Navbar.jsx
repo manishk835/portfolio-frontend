@@ -40,7 +40,7 @@ const Navbar = () => {
 
         <div className="nav-icons">
           <FaSearch className="icon" onClick={() => setSearchOpen(!searchOpen)} />
-          <a href="https://www.instagram.com/sst deepak/?next=%2Fsst deepak%2F%3Fnext%3D%252F" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/manish.k_8_3_5/?next=%2Fsst manish%2F%3Fnext%3D%252F" target="_blank" rel="noopener noreferrer">
             <FaInstagram className="icon" />
           </a>
           {/* Hamburger Icon */}
