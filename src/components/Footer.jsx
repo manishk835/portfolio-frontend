@@ -16,7 +16,7 @@ function Footer() {
           <FaInstagram className="icon instagram" />
         </a>
         <a
-          href="https://api.whatsapp.com/send?phone=918302958489&text=Inquiry Hello"
+          href="https://api.whatsapp.com/send?phone=918302958489&text=Hello Manish"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-whatsapp-bottom-right"
