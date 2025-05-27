@@ -1,7 +1,7 @@
 import React from "react";
 import photo from "../assets/photo.png";
 import Typewriter from "typewriter-effect";
-import resume from "../assets/My Resume.pdf";
+import resume from "../assets/Manish.pdf";
 
 function Home() {
   return (
@@ -27,8 +27,11 @@ function Home() {
         />
       </p>
       <div className="home-buttons">
-        <a href={resume} download="Manish_Kumar_Resume.pdf">
+        <a href={resume} download="Manish.pdf">
           <button className="btn hire-btn">Download Resume</button>
+        </a>
+        <a href={resume} target="_blank" rel="noopener noreferrer">
+          <button className="btn work-btn">View Resume</button>
         </a>
       </div>
     </div>

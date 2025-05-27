@@ -9,10 +9,10 @@ function Footer() {
         <a href="https://github.com/manishk835" target="_blank" rel="noopener noreferrer">
           <FaGithub className="icon github" />
         </a>
-        <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="icon linkedin" />
         </a>
-        <a href="https://www.instagram.com/yourinstagram" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/manish.k_8_3_5/?next=%2F" target="_blank" rel="noopener noreferrer">
           <FaInstagram className="icon instagram" />
         </a>
         <a
