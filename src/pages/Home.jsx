@@ -16,6 +16,7 @@ function Home() {
         <Typewriter
           options={{
             strings: [
+              "FRONTEND DEVELOPER (REACT & NEXT.JS)",
               "A Passionate MERN Stack Developer 🚀",
               "Full-Stack Enthusiast 💻",
               "JavaScript Lover ❤️",
